@@ -9,5 +9,5 @@
 </template>
 
 <script setup>
-    import "../styles/homePage.scss";
+    import "../styles/layout.scss";
 </script>
