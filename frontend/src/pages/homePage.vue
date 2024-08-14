@@ -33,7 +33,7 @@
 
     const subscribe = async () => {
         try {
-            await axios.post('http://localhost:5000/api/subscribe', { email: email.value });
+            await axios.post('http://localhost:3000/user', { email: email.value });
             alert('Inscrição realizada com sucesso!');
             email.value = ''; 
         } catch (error) {
