@@ -4,8 +4,9 @@ Código feito em decorrência do processo seletivo para um estágio na MindTech.
 
 Utilizei tecnologias como:
 - Vue.js
-- Node.js com Express
-- etc
+- Node.js
+- Express
+- (alguns extras como Radix, Vue router, etc)
 
 ## Instruções para rodar
 
