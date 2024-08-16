@@ -1,6 +1,11 @@
 # Desafio Técnico - Mindtech
 
-texto texto texto
+Código feito em decorrência do processo seletivo para um estágio na MindTech.
+
+Utilizei tecnologias como:
+- Vue.js
+- Node.js com Express
+- etc
 
 ## Instruções para rodar
 
@@ -9,6 +14,7 @@ texto texto texto
 Primeiro, instalar as dependências:
 
 ```bash
+cd ./backend
 npm install
 ```
 
@@ -23,6 +29,7 @@ npm run start
 Após inicializar o back-end, instalar as dependências do front-end:
 
 ```bash
+cd ./frontend
 npm install
 ```
 
