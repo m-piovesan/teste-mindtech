@@ -14,7 +14,7 @@ const routes = [
                 component: homePage,
             },
             {
-                path: "/success",
+                path: "success",
                 component: successPage,
             }
         ]

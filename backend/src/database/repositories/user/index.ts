@@ -16,4 +16,12 @@ export class UserRepository {
       },
     });
   }
+
+  async remove(email: string) {
+    await prismaClient.user.delete({
+      where: {
+        email,
+      },
+    });
+  }
 }
